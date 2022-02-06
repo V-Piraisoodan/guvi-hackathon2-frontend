@@ -107,5 +107,3 @@ function Addcolorbox({clr}){
   <div style ={styles}></div>
   )
 }
-
-export default App;
